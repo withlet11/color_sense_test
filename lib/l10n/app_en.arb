@@ -1,0 +1,11 @@
+{
+  "whichIsTheSameColor": "Which is the same color?",
+  "start": "Start!",
+  "ok": "OK!",
+  "oops": "Oops!",
+  "score": "Score: ",
+  "yourScore": "Your Score: ",
+  "winningRate": "Winning rate: ",
+  "tryAgain": "Try again",
+  "quit": "Quit"
+}
